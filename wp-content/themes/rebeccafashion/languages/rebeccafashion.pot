@@ -1,0 +1,299 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RebeccaFashion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-15 07:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: rebeccafashion"
+
+#: functions.php:230
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:234
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: core/customizer.php:81
+msgid "Accent Color"
+msgstr ""
+
+#: header.php:44
+msgid "Add a menu"
+msgstr ""
+
+#. Author of the theme
+msgid "AZ-Theme"
+msgstr ""
+
+#: functions.php:193
+msgid "Bloglovin"
+msgstr ""
+
+#: core/customizer.php:191
+msgid "Bloglovin URL"
+msgstr ""
+
+#: core/customizer.php:103
+msgid "Border Color"
+msgstr ""
+
+#: comments.php:15
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:31 comments.php:48
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: core/customizer.php:256
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:196
+msgid "Dribbble"
+msgstr ""
+
+#: core/customizer.php:202
+msgid "Dribbble URL"
+msgstr ""
+
+#: functions.php:189
+msgid "Facebook"
+msgstr ""
+
+#: core/customizer.php:127
+msgid "Facebook URL"
+msgstr ""
+
+#: core/customizer.php:268
+msgid "Footer Background Color"
+msgstr ""
+
+#: core/customizer.php:290
+msgid "Footer Icon Color"
+msgstr ""
+
+#: core/customizer.php:244
+msgid "Footer Settings"
+msgstr ""
+
+#: core/customizer.php:279
+msgid "Footer Text Color"
+msgstr ""
+
+#: template-parts/content-none.php:6
+msgid "Get started here"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://az-theme.net"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://az-theme.net/downloads/rebecca-fashion-free-wordpress-blog-theme/"
+msgstr ""
+
+#: functions.php:191
+msgid "Instagram"
+msgstr ""
+
+#: core/customizer.php:147
+msgid "Instagram URL"
+msgstr ""
+
+#: 404.php:6 template-parts/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:18
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:199
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer.php:235
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions.php:75
+msgctxt "Lora: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Menu"
+msgstr ""
+
+#: core/customizer.php:92
+msgid "Meta Color"
+msgstr ""
+
+#: functions.php:74
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: functions.php:192
+msgid "Pinterest"
+msgstr ""
+
+#: core/customizer.php:158
+msgid "Pinterest URL"
+msgstr ""
+
+#: core/customizer.php:59
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: template-parts/content-none.php:6
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: core/widgets/about-me.php:13
+msgid "Rebecca Fashion: About Me"
+msgstr ""
+
+#. Name of the theme
+msgid "RebeccaFashion"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"RebeccaFashion is a clean and powerful fashion blog WordPress theme. This "
+"theme is the latest mobile-friendly and built based on Bootstrap. Thanks to "
+"its intuitive admin panel powered by WordPress Customizer, it is very quick "
+"and straightforward to customize. RebeccaFashion is the best theme for "
+"fashion, lifestyle, and similar blogs. Check demo at https://rebeccafashion."
+"az-theme.net/, and get support at https://az-theme.net/contact/"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search and hit enter..."
+msgstr ""
+
+#: search.php:4
+msgid "Search results for"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:13
+msgid "Skip to content"
+msgstr ""
+
+#: core/widgets/social-media-links.php:6
+msgid "Social Media Links Widget"
+msgstr ""
+
+#: core/customizer.php:112
+msgid "Social Media Settings"
+msgstr ""
+
+#: template-parts/content-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions.php:197
+msgid "Soundcloud"
+msgstr ""
+
+#: core/customizer.php:213
+msgid "SoundCloud URL"
+msgstr ""
+
+#: comments.php:19
+msgid "Submit"
+msgstr ""
+
+#: core/customizer.php:70
+msgid "Text Color"
+msgstr ""
+
+#: core/widgets/social-media-links.php:94
+msgid "Title:"
+msgstr ""
+
+#: functions.php:194
+msgid "Tumblr"
+msgstr ""
+
+#: core/customizer.php:180
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions.php:190
+msgid "Twitter"
+msgstr ""
+
+#: core/customizer.php:136
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:198
+msgid "Vimeo"
+msgstr ""
+
+#: core/customizer.php:224
+msgid "Vimeo URL"
+msgstr ""
+
+#: template-parts/single-post-related.php:22
+msgid "You May Also Like"
+msgstr ""
+
+#: functions.php:239
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/customizer.php:246
+msgid "Your copyright text here !"
+msgstr ""
+
+#: functions.php:195
+msgid "Youtube"
+msgstr ""
+
+#: core/customizer.php:169
+msgid "Youtube URL"
+msgstr ""
